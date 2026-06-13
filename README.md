@@ -21,6 +21,11 @@ I enjoy working with data end-to-end — cleaning messy datasets, exploring tren
 End-to-end analysis of an e-commerce sales dataset — data cleaning, EDA, and visualizations (sales distribution, regional profit, sales vs. profit), wrapped up with data-driven business recommendations.
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
+## Key Visualizations
+
+![Sales by Region](images/2_Sales_by_Region.png)
+![Sales Distribution](images/1_Sales_Distribution.png)
+![Sales vs Profit](images/3_Sales_vs_Profit.png)
 ---
 
 ### 📈 GitHub Stats
